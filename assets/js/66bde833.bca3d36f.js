@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4501],{32427:function(e){e.exports=JSON.parse('{"specUrl":"https://cdn.jsdelivr.net/npm/wechaty-grpc/dist/generated/wechaty/puppet.swagger.json","type":"url","content":"https://cdn.jsdelivr.net/npm/wechaty-grpc/dist/generated/wechaty/puppet.swagger.json"}')}}]);
